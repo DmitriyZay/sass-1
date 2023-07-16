@@ -12,6 +12,7 @@ $rejected-color: #f64e60;
     @include service.spacing(2);
 }
 
+
 .avatar {
     // викликаючи міксин circle з файлу service.scss створюємо круглий елемент з розміром 50px
     @include service.circle(50);

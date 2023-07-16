@@ -8,6 +8,10 @@
   width: 50px;
   border-radius: 50%;
 }
+.avatar:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
 .avatar img {
   width: 50px;
 }
